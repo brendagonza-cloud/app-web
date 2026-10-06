@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Proyecto Node.js para práctica de CI con GitHub Actions",
   "main": "index.js",
- "scripts": {
-  "build": "node build-x.js"
-}
+  "scripts": {
+    "build": "node build.js"
+  },
   "author": "Brenda Gonzalez",
   "license": "ISC"
 }
